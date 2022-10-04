@@ -1,2 +1,2 @@
-# Practice-Makes-Man-Perfect
+#Practice
 Practice Code
